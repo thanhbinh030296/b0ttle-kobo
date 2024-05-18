@@ -10,5 +10,5 @@ all things related to Kobo Reader
 - Result
 ![alt text](img/vi_book_header.jpg)
 
-## 2. Install dictionary
+## 2. Install dictionaries
 https://github.com/thanhbinh030296/kobo-tieng-viet
