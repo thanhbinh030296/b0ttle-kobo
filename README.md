@@ -9,3 +9,6 @@ all things related to Kobo Reader
 - copy `KoboRoot.tgz` to ***.kobo/***
 - Result
 ![alt text](img/vi_book_header.jpg)
+
+## 2. Install dictionary
+https://github.com/thanhbinh030296/kobo-tieng-viet
